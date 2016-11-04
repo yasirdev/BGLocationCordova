@@ -1,0 +1,10 @@
+
+!/res
+!/scripts
+!/www
+!.gitignore
+!*.png
+!contributors.txt
+!config.xml
+!README.md
+/**/.DS_Store

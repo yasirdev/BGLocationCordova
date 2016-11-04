@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.marianhello.bgexampleapp"
+        },
+        "cordova-plugin-mauron85-background-geolocation": {
+            "ALWAYS_USAGE_DESCRIPTION": "This app requires background location tracking",
+            "PACKAGE_NAME": "com.marianhello.bgexampleapp"
+        }
+    },
+    "dependent_plugins": {}
+}
